@@ -17,7 +17,9 @@ Fire Emblem Awakening is a tactical role-playing game for the Nintendo 3DS devel
 Fire Emblem Awakening requires:
 * A Nintendo 3DS, 3DS XL, 2DS, New 3DS, New 3DS XL, or New 2DS XL console. <img src="https://miro.medium.com/max/1000/0*ZWDt2VQKg2mqZHPI.jpg" width="500">
 * A Fire Emblem Awakening gamecart or digital purchase of the game on the Nintendo eShop. 
+
 <img src="https://www.picclickimg.com/d/l400/pict/303589961842_/Fire-Emblem-Awakening-Nintendo-3DS-Game-Cart.jpg" width="300">
+
 ## Installation <a name="Installation"></a>
 If using a gamecart, skip to Step 2.
 ### Step 1:
