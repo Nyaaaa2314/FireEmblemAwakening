@@ -40,7 +40,6 @@ The game prompt will prompt you to initalize data if its the first time you have
 * 'R' button | Zoom in/out
 * 'L' button | Scroll through units
 * Start/Select buttons | Skip event or dialogue
-*
 
 ### Overworld
 <img src="https://serenesforest.net/wp-content/uploads/2014/06/world-map-full.jpg">
