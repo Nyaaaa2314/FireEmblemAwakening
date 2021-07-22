@@ -41,6 +41,7 @@ The game prompt will prompt you to initalize data if its the first time you have
 * 'L' button | Scroll through units
 * Start/Select buttons | Skip event or dialogue
 *
+
 ### Overworld
 <img src="https://serenesforest.net/wp-content/uploads/2014/06/world-map-full.jpg">
 Most of your time when not in combat will be spent in the overworld. Here you can navigate between chapters, paralogues, shops,and random encounters. By pressing 'X' you can also manage your inventory of items, your units, and support conversations.
