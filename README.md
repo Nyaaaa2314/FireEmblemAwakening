@@ -68,6 +68,7 @@ The above picture is an example of what a typical unit would look like in-game, 
 * In the bottom right corner is the unit's skills (max of 5), which are abilities that have a chance of activiating during combat to benefit the unit.
 ### Combat
 Combat consists of controlling your units on a chess-like grid with the objective being to defeat the enemy units.
+
 <img src="https://static.wikia.nocookie.net/fireemblem/images/1/18/FE13_Chapter_2.jpg/revision/latest?cb=20120603203500">
 
 You and the enemy take turns, being able to move and complete an action with each unit each turn. The battle ends when either all of the enemies units are defeated or your leader falls in battle. To initate combat between units, your unit must be in range of an enemy unit. From there you select a weapon and then the game will play an animation with your attack, showing the damage dealt alongside the animation. An enemy is defeated when their HP stat drops to 0. 
